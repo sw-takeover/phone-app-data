@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.censored",
+  "variantName": "appDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 102,
+      "versionName": "0.1",
+      "outputFile": "PhoneSlut_0.1.02.apk"
+    }
+  ],
+  "elementType": "File"
+}
