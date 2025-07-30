@@ -5,17 +5,16 @@
     "kind": "Directory"
   },
   "applicationId": "com.censored",
-  "variantName": "appRelease",
+  "variantName": "appDebug",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 200,
+      "versionCode": 201,
       "versionName": "0.2",
-      "outputFile": "PhoneSlut_0.2.00.apk"
+      "outputFile": "PhoneSlut_0.2.01.apk"
     }
   ],
   "elementType": "File"
 }
-
