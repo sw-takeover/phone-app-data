@@ -11,10 +11,11 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 800,
-      "versionName": "0.8",
-      "outputFile": "PhoneSlut_0.8.00.apk"
+      "versionCode": 900,
+      "versionName": "0.9",
+      "outputFile": "PhoneSlut_0.9.00.apk"
     }
   ],
-  "elementType": "File"
+  "elementType": "File",
+  "minSdkVersionForDexing": 26
 }
